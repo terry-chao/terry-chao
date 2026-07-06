@@ -22,7 +22,7 @@
 |------|------|
 | 🎮 [GameGuide — 专业游戏攻略站](https://importcpp.com/gameguide-site/) | 涵盖手游、PC、主机平台的 500+ 篇原创攻略，SEO 优化，响应式设计，每日更新 |
 | 🕹️ [WebArcades — 网页游戏合集](https://webarcades.com/) | 纯 Canvas + Web Audio API 实现的经典小游戏合集（坦克大战、俄罗斯方块、贪吃蛇等），无需安装，点击即玩 |
-| 📄 简历管理工具 *(开发中)* | 面向个人的简历管理与维护应用，暂未开源 |
+| 📄 [好运简历](https://luckycv.cn/) | 面向个人的简历管理与维护应用 |
 
 ---
 
