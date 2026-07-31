@@ -20,6 +20,7 @@
 
 | 项目 | 说明 |
 |------|------|
+| 🧊 [Tamias — C++/Qt 网格查看器](https://github.com/terry-chao/tamias) | C++23 / CMake / Qt 6 网格查看器，自研 Vulkan RHI，支持 OBJ/GLB、着色/线框与 BVH 拾取 |
 | 🎮 [GameGuide — 专业游戏攻略站](https://importcpp.com/gameguide-site/) | 涵盖手游、PC、主机平台的 500+ 篇原创攻略，SEO 优化，响应式设计，每日更新 |
 | 🕹️ [WebArcades — 网页游戏合集](https://webarcades.com/) | 纯 Canvas + Web Audio API 实现的经典小游戏合集（坦克大战、俄罗斯方块、贪吃蛇等），无需安装，点击即玩 |
 | 📄 [好运简历 — 在线AI简历制作分享平台](https://luckycv.cn/) | 面向个人的简历管理与维护应用 |
