@@ -39,10 +39,10 @@
 
 #### 📊 GitHub 概览
 
-![Terry's GitHub stats](https://github-readme-stats.vercel.app/api?username=terry-chao&show_icons=true&include_all_commits=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=terry-chao&layout=compact)
-
-- 🏆 Achievements: Pair Extraordinaire · Pull Shark · YOLO · Arctic Code Vault Contributor
+<p>
+  <img height="165" src="https://github-readme-stats.shion.dev/api?username=terry-chao&show_icons=true&include_all_commits=true" alt="Terry's GitHub stats" />
+  <img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=terry-chao&layout=compact" alt="Top Langs" />
+</p>
 
 ---
 
