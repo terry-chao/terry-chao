@@ -19,7 +19,7 @@
 
 ---
 
-#### 🚀 施工中
+#### 🚀 施工中 <img src="assets/coding.gif" height="32" align="absmiddle" alt="正在写代码" />
 
 | 项目 | 说明 |
 |------|------|
