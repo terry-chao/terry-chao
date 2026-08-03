@@ -1,6 +1,6 @@
 ### Hi, I'm Terry 👋
 
-资深 C++ / Qt 开发者，坐标杭州。热衷于图形开发、游戏技术和全栈 Web 应用。
+资深 C++ 开发者，坐标杭州。主业做三维软件开发，同时热衷图形、游戏技术与全栈 Web。
 
 ---
 
@@ -8,24 +8,27 @@
 
 | 领域 | 技术 |
 |------|------|
-| **核心语言** | C++ (Qt)、C#、JavaScript |
-| **图形开发** | Vulkan、Canvas、Web Audio API |
-| **前端** | HTML/CSS、基础响应式与 SEO |
-| **数据库** | 基本的数据库设计与使用 |
-| **工具链** | Git、MSBuild、PowerShell |
+| **核心语言** | C++、C#、TypeScript |
+| **图形开发** | OpenGL、Vulkan（入门中）、Qt |
+| **Web** | React、Prisma、Next.js |
+| **后端** | Go、gRPC / REST / GraphQL、Nginx、JWT / OAuth |
+| **数据库** | PostgreSQL、Redis |
+| **AI 辅助** | Claude、Codex、Cursor |
+| **开发工具** | Visual Studio、VS Code、CLion / Rider、RenderDoc |
+| **工具链** | Git、SVN、CMake、Docker、npm / pnpm / bun |
 
 ---
 
-#### 🚀 在做的项目
+#### 🚀 施工中
 
 | 项目 | 说明 |
 |------|------|
 | 🧊 [Tamias — C++/Qt 网格查看器](https://github.com/terry-chao/tamias) | C++23 / CMake / Qt 6 网格查看器，自研 Vulkan RHI，支持 OBJ/GLB、着色/线框与 BVH 拾取 |
-| 📄 [好运简历 — 在线AI简历制作分享平台](https://luckycv.cn/) | 面向个人的简历管理与维护应用 |
+| 📄 [好运简历 — 在线AI简历制作分享平台](https://luckycv.cn/) | 面向个人的简历管理与维护应用，已上线 |
 
 ---
 
-#### ✨ 项目展示
+#### ✨ 练手小项目
 
 | 项目 | 说明 |
 |------|------|
@@ -36,13 +39,15 @@
 
 #### 📊 GitHub 概览
 
-- **60** 个公开仓库，过去一年 **146** 次贡献
-- 活跃贡献于 [PowerGraphLab/MulanGeo](https://github.com/PowerGraphLab/MulanGeo)、[learn-vulkan](https://github.com/terry-chao/learn-vulkan) 等项目
+![Terry's GitHub stats](https://github-readme-stats.vercel.app/api?username=terry-chao&show_icons=true&include_all_commits=true&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=terry-chao&layout=compact)
+
 - 🏆 Achievements: Pair Extraordinaire · Pull Shark · YOLO · Arctic Code Vault Contributor
 
 ---
 
 #### 📫 联系我
 
+- Email: [terrychao.me@gmail.com](mailto:terrychao.me@gmail.com)
 - Twitter: [@terry1chao](https://twitter.com/terry1chao)
 - GitHub: [github.com/terry-chao](https://github.com/terry-chao)
