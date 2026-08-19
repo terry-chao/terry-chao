@@ -30,10 +30,16 @@
 
 #### 📊 GitHub 概览
 
-<p>
-  <img height="165" src="https://github-readme-stats.shion.dev/api?username=terry-chao&show_icons=true&include_all_commits=true" alt="Terry's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=terry-chao&layout=compact" alt="Top Langs" />
-</p>
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <img width="100%" src="https://github-readme-stats.shion.dev/api?username=terry-chao&show_icons=true&include_all_commits=true" alt="Terry's GitHub stats" />
+    </td>
+    <td width="50%" valign="top">
+      <img width="100%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=terry-chao&layout=compact&card_width=495" alt="Top Langs" />
+    </td>
+  </tr>
+</table>
 
 ---
 
