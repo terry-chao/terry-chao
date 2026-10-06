@@ -25,6 +25,7 @@
 |------|------|
 | [<img src="https://raw.githubusercontent.com/terry-chao/tamias/main/assets/branding/logo.png" height="18" align="absmiddle" alt="Tamias" /> Tamias — C++/Qt 网格查看器](https://github.com/terry-chao/tamias) | C++23 / CMake / Qt 6 网格查看器，自研 Vulkan RHI，支持 OBJ/GLB、着色/线框与 BVH 拾取 |
 | [TacUI — Tessellated Accelerated Composition Library](https://github.com/terry-chao/TacUI) | C++ 界面库：三角剖分 + GPU 加速 + 图层合成，项目起步中 |
+| [MapleView 枫阅 — Rust 图片查看器](https://github.com/terry-chao/MapleView) | egui + wgpu 图片查看器：GPU 渲染、多线程解码 + 预取 + 字节预算缓存，支持 JPEG/PNG/WebP/AVIF 等，M1 已完成 |
 
 ---
 
