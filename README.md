@@ -24,6 +24,14 @@
 | 项目 | 说明 |
 |------|------|
 | [<img src="https://raw.githubusercontent.com/terry-chao/tamias/main/assets/branding/logo.png" height="18" align="absmiddle" alt="Tamias" /> Tamias — C++/Qt 网格查看器](https://github.com/terry-chao/tamias) | C++23 / CMake / Qt 6 网格查看器，自研 Vulkan RHI，支持 OBJ/GLB、着色/线框与 BVH 拾取 |
+| [TacUI — Tessellated Accelerated Composition Library](https://github.com/terry-chao/TacUI) | C++ 界面库：三角剖分 + GPU 加速 + 图层合成，项目起步中 |
+
+---
+
+#### ✅ 已竣工 · 维护中
+
+| 项目 | 说明 |
+|------|------|
 | [<img src="https://luckycv.cn/icon.svg" height="18" align="absmiddle" alt="好运简历" /> 好运简历 — 在线AI简历制作分享平台](https://luckycv.cn/) | 面向个人的简历管理与维护应用，已上线 |
 
 ---
@@ -33,10 +41,10 @@
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <img width="100%" src="https://github-readme-stats.shion.dev/api?username=terry-chao&show_icons=true&include_all_commits=true" alt="Terry's GitHub stats" />
+      <img width="100%" src="https://github-readme-stats.shion.dev/api?username=terry-chao&show_icons=true&include_all_commits=true&card_width=495&hide_border=true&rank_icon=github" alt="Terry's GitHub stats" />
     </td>
     <td width="50%" valign="top">
-      <img width="100%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=terry-chao&layout=compact&card_width=495" alt="Top Langs" />
+      <img width="100%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=terry-chao&layout=compact&card_width=495&langs_count=8&hide_border=true" alt="Top Langs" />
     </td>
   </tr>
 </table>
