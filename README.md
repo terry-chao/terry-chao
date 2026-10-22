@@ -1,5 +1,7 @@
 ### Hi, I'm Terry 👋
 
+<a href="mailto:terrychao.me@gmail.com"><img src="https://img.shields.io/badge/Open%20to%20Work-%E6%AD%A3%E5%9C%A8%E6%89%BE%E5%B7%A5%E4%BD%9C%E4%B8%AD-2ea44f?style=flat-square" height="28" alt="正在找工作中 · Open to Work" /></a>
+
 资深 C++ 开发者，坐标杭州。主业做三维软件开发，同时热衷图形、游戏技术与全栈 Web。
 
 ---
